@@ -2,3 +2,7 @@ name = "ExamplePkg"
 uuid = "f46f5634-197d-4bff-bb7f-00a6f0753540"
 authors = ["sky5265 <89414120+sky5265@users.noreply.github.com>"]
 version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
